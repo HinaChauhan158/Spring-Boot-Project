@@ -1,4 +1,4 @@
-#E-Commerce Web Application
+**E-Commerce Web Application**
 
 This project is an E-Commerce web application built using Spring Boot, Thymeleaf, and Java. It includes various features such as an admin section, user section, and payment gateway integration.
 
